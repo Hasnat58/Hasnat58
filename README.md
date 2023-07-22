@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hasnat
-- 👀 I’m interested in developing programs 
-- 🌱 I’m currently learning different languages
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning python
 
 <!---
 Hasnat58/Hasnat58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
